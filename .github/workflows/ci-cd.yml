@@ -1,4 +1,4 @@
-name: CI - Build & Push to GHCR
+name: CI - Builds & Push to GHCR
 
 on:
   workflow_dispatch:   
